@@ -1,0 +1,19 @@
+{
+  "name": "commajs-fontawesome",
+  "version": "1.0.1",
+  "description": "Fontawesome 4 for CommaJS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugghq/commajs-fontawesome.git"
+  },
+  "keywords": [
+  ],
+  "author": "Luca Rondanini",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/plugghq/commajs-fontawesome/issues"
+  },
+  "homepage": "https://www.commajs.com"
+}
+
+
